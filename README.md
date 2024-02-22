@@ -12,10 +12,18 @@ https://www.zhihu.com/question/24410332/answer/2554535180
 ## 更新日志 
 ### 2024年2月23日
 #### 哔哩哔哩工房学习资料发布
-##### 本人B站号大楚兴建明王的b站工房里发布了一些理工科课程实验程序及报告（如Python、数字电子技术、单片机等）、工程项目设计（如个人博客网页搭建、嵌入式系统设计、双容水箱仿真控制、PLC控制系统设计等）和保研真题资料（笔面试真题、推免PPT模板等）。下面的链接是理工科课程实验程序合集+一份江南大学理工科学习资料压缩包。（与github的网盘链接相比增加了一些新的试卷真题，并对内容做了一些优化调整）
-##### 欢迎大家点击下方链接浏览相关资料，更多课程学习资料尽在本人的b站工房里。
-https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105510076&from=items_share&msource=items_share
-
+##### 本人B站号大楚兴建明王的b站工房里发布了一些理工科课程实验程序及报告（如Python、数字电子技术、单片机等）、工程项目设计（如个人博客网页搭建、嵌入式系统设计、双容水箱仿真控制、PLC控制系统设计等）和保研真题资料（笔面试真题、推免PPT模板等）。
+欢迎大家点击下方链接浏览相关资料，更多课程学习资料尽在本人的b站工房里。
+##### 链接1：理工科课程实验程序合集+一份江南大学理工科学习资料压缩包。（与github的网盘链接相比增加了一些新的试卷真题，并对内容做了一些优化调整）
+##### https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105510076&from=items_share&msource=items_share
+##### 链接2:保研真题资料
+##### https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105518076&from=items_share&msource=items_share
+##### 链接3:Python软件《自然语言智能分析器》
+##### https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105521076&from=items_share&msource=items_share
+##### 链接4:基于信捷PLC的恒压供水信息化监控系统
+##### https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105524076&from=items_share&msource=items_share
+##### 链接5:单片机原理与接口技术实验程序及报告
+##### https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105519076&from=items_share&msource=items_share
 ### 2023年12月20日
 ##### 江南大学自动化课程培养思维导图
 江南大学自动化课程培养思维导图的ProcessOn原始链接的内容进行了增加：
