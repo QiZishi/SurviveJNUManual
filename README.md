@@ -27,8 +27,8 @@ https://www.zhihu.com/question/24410332/answer/2554535180
 ##### https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105524076&from=items_share&msource=items_share
 ##### 链接5:单片机原理与接口技术实验程序及报告
 ##### https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1105519076&from=items_share&msource=items_share
-#####若我的绵薄之力能够帮助到您，请您也支持一波我的工作，万分感谢！
-![image]https://github.com/QiZishi/SurviveJNUManual/blob/main/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97V2.0/%E6%94%AF%E6%8C%81%E4%B8%80%E6%B3%A2.jpg
+##### 若我的绵薄之力能够帮助到您，请您也支持一波我的工作，万分感谢！
+![image](https://github.com/QiZishi/SurviveJNUManual/blob/main/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97V2.0/%E6%94%AF%E6%8C%81%E4%B8%80%E6%B3%A2.jpg)
 ### 2023年12月20日
 ##### 江南大学自动化课程培养思维导图
 江南大学自动化课程培养思维导图的ProcessOn原始链接的内容进行了增加：
