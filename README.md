@@ -6,8 +6,8 @@
 PS：百度网盘链接打开以后，重点是网盘资料里的一个3.85GB的压缩包，上面介绍的课程往年卷子等资料都在那个压缩包里。
 
 ## 本指南首发于知乎，知乎链接如下：
-在江南大学就读是怎样一番体验？ - 月在鞍的回答 - 知乎
-https://www.zhihu.com/question/24410332/answer/2554535180
+江南大学学习生活指南（2024年） - 月在鞍的文章 - 知乎
+https://zhuanlan.zhihu.com/p/710521121
 ## 更多学习资料，请浏览b站up主大楚兴建明王的哔哩哔哩工房
 大楚兴建明王的B站工房：https://mall.bilibili.com/neul-next/index.html?noTitleBar=1&page=mall-up_shop&shopId=678604&from=shop_share&msource=shop_share
 
